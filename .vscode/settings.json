@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/640100ef-c020-4796-9060-b95e8e7f155a/resourceGroups/krzys/providers/Microsoft.Web/sites/ks-cors",
+    "appService.deploySubpath": "."
+}
